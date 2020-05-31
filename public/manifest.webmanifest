@@ -1,6 +1,11 @@
 {
     "name":"budget_tracker", 
     "short_Name": "budget",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone",
+
     "icons": [
         {
             "src": "icons/icon-192x192.png",
@@ -13,13 +18,9 @@
             "type": "image/png" 
         }
 
-    ],
+    ]
 
 
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "start_url": "/",
-    "display": "standalone"
-
+  
 
 }
